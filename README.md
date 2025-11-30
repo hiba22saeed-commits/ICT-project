@@ -22,7 +22,7 @@ Tech Stack
 Frontend: HTML, CSS, JavaScript
 How to Use / Run Locally
 Clone this repository
-git clone https://github.com/Qaimaryam/DevoraX.git
+https://github.com/hiba22saeed-commits/ICT-project
 
 Project Structure
 /DevoraX
